@@ -1,5 +1,3 @@
-# dio-desafio-01
-Desafio de projeto sobre Git/Github
+# dio-desafio-jogo-da-velha
+Desafio de projeto jogo da velha em java scrpit.
 
-
-[Sintaxe básica mark danw](https://www.markdownguide.org/getting-started/)
